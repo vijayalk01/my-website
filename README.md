@@ -18,7 +18,7 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
+To view a demo example, **[click here](https://simplfolio.netlify.com/)**
 
 ---
 
@@ -50,10 +50,10 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/rbussa/FE_Training_portfolio.git
 
 # Go into the repository
-$ cd simplefolio
+$ cd FE_Training_portfolio
 
 # Remove current origin repository
 $ git remote remove origin
@@ -315,7 +315,7 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez**
 
 ## Status
 
